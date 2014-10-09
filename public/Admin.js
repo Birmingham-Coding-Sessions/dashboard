@@ -11,7 +11,7 @@ Admin.init = function() {
 Admin.sendContent = function() {
     var data = {
         header: "",
-        image: "http://www.w3schools.com/images/compatible_chrome.gif",
+        image: "public/Admin.gif",
         content: document.getElementById("add-content").value
     };
     Admin.socket.emit("new-data", data);
