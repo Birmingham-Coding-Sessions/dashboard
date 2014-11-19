@@ -1,7 +1,7 @@
 {
-  "name": "cube-game",
+  "name": "dashboard",
   "version": "0.0.1",
-  "description": "A game of cubes.",
+  "description": "A stream amalgamator, with a dashboard style UI.",
   "dependencies": {
     "express": "^4.9.5",
     "socket.io": "^1.1.0"
