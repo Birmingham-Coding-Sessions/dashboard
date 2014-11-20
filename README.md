@@ -8,11 +8,12 @@ The idea is to create a dashboard which can show live updates to streams such as
 - GitHub/Bitbucket commit info.
 - Continuous integration server messages.
 - Twitter/Facebook/general social media.
-etc.
+- etc.
 
 ## How to use ##
 
 This is built using nodeJS. To install the dependencies (locally to this project) you execute:
+
     cd project/directory
     npm install
 
